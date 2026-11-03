@@ -1,3 +1,8 @@
 # Portfolio app
 
-Just a portfolio for my gh page. No one will look at it, but its there
+An earlier version of my personal portfolio site, built with React and Vite.
+
+```bash
+npm install
+npm run dev
+```
